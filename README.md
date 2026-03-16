@@ -1,1 +1,1 @@
-# monitoring_of_production_processes
+Лабораторна робота №1 - Обробка первинних даних моніторингу
